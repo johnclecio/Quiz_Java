@@ -1,0 +1,19 @@
+{
+  "teste": [
+    {
+      "pergunta": "Qual é a capital da França?",
+      "itens": ["a) Berlim", "b) Madri", "c) Paris", "d) Roma"]
+
+    },
+    {
+      "pergunta": "Qual é a capital do Brazil?",
+      "itens": ["a) Belem", "b) Fortaleza", "c) São Paulo", "d) Brasilia"]
+
+    },
+    {
+      "pergunta": "Qual é a capital do Estados Unidos?",
+      "itens": ["a) New York", "b) Miami", "c) Washington DC", "d) Boston"]
+
+    }
+  ]
+}
